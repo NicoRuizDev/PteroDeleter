@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0",
+    "node-fetch": "^2.6.7"
+  },
+  "name": "pterodactyl-deleter",
+  "version": "1.0.0",
+  "description": "Script that can delete servers and users from pterodactyl panel using pterodactyl API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "AnonDev (anon.is-a.dev)",
+  "license": "ISC"
+}
