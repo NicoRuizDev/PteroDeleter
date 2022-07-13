@@ -26,19 +26,19 @@
 <div align="center">
   
 
-  <h3 align="center">Chat Bot</h3>
+  <h3 align="center">PteroDeleter</h3>
 
   <p align="center">
-    An awesome AI Chat Bot for Discord!
+    A Server / User deleter made for Pterodactyl !
     <br />
-    <a href="https://github.com/NicoRuizDev/DiscordChatBot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NicoRuizDev/PteroDeleter"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/NicoRuizDev/DiscordChatBot">View Demo</a>
+    <a href="https://github.com/NicoRuizDev/PteroDeleter">View Demo</a>
     ·
-    <a href="https://github.com/NicoRuizDev/DiscordChatBot/issues">Report Bug</a>
+    <a href="https://github.com/NicoRuizDev/PteroDeleter/issues">Report Bug</a>
     ·
-    <a href="https://github.com/NicoRuizDev/DiscordChatBot/issues">Request Feature</a>
+    <a href="https://github.com/NicoRuizDev/PteroDeleter/issues">Request Feature</a>
   </p>
 </div>
 
