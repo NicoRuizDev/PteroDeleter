@@ -66,7 +66,7 @@ This project is maded to make your work easier on Pterodactyl. It can delete ser
 
 
 <div align="center">
-<img src="https://i.imgur.com/zQkI9hs.png" alt="Demo" width="512" height="439">
+<img src="https://i.imgur.com/zQkI9hs.png" alt="Demo" width="512" height="200">
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -75,8 +75,7 @@ This project is maded to make your work easier on Pterodactyl. It can delete ser
 
 ### Built With
 
-* [Discord.js v13](https://discordjs.guide/additional-info/changes-in-v13.html#before-you-start)
-* [Brainshop](https://brainshop.ai/)
+* [NodeJs v16](https://nodejs.org)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
