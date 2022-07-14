@@ -66,7 +66,7 @@ This project is maded to make your work easier on Pterodactyl. It can delete ser
 
 
 <div align="center">
-<img src="https://i.ibb.co/nfHKXmh/demo.png" alt="Demo" width="512" height="439">
+<img src="https://i.imgur.com/z4qbCDH.png" alt="Demo" width="512" height="439">
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
