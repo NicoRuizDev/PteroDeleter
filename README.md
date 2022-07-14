@@ -92,7 +92,7 @@ To get a local copy up and running follow these simple example steps.
 
 _Below is an example of how you can instruct your audience on installing and setting up your app._
 
-1. Get Pterodactyl API Key at [https:// < Panel Link > /admin/api](https:// < Panel Link > /admin/api)
+1. Get Pterodactyl API Key at [https:// < Panel Link > /admin/api]
 2. Clone the repo
    ```sh
    git clone https://github.com/NicoRuizDev/PteroDeleter.git
