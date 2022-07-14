@@ -62,8 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Working on projects is the most crucial stage in the learning path. In this step, you must be able to put all the skills and knowledge you learned theoretically into reality. And this becomes even more important when it comes to artificial intelligence or data science.
-As I began to study this field more deeply, I realized that finding application projects is not a hard task. We barely use Artificial Intelligence in many areas. Thus, we can find many new and different applications related to other fields such as medicine, engineering, accounting, etc. Although the most difficult thing is knowing what are the exact steps to follow in order to accomplish this specific project.
+This project is maded to make your work easier on Pterodactyl. It can delete servers / users from Pterodactyl. This removes the server data too from the node. So that you won't suffer from Disk Problem. In this project you can select either delete admin servers or non-admin servers. This scripts needs a Administrator Admin API Key to delete the servers. That's it! Enjoy!
 
 
 <div align="center">
