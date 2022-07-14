@@ -67,9 +67,7 @@ As I began to study this field more deeply, I realized that finding application 
 
 
 <div align="center">
-<a href="https://github.com/NicoRuizDev/DiscordChatBot">
 <img src="https://i.ibb.co/nfHKXmh/demo.png" alt="Demo" width="512" height="439">
-</a>
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -165,14 +163,14 @@ Project Link: [https://github.com/NicoRuizDev/DiscordChatBot](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/NicoRuizDev/DiscordChatBot.svg?style=for-the-badge
-[contributors-url]: https://github.com/NicoRuizDev/DiscordChatBot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/NicoRuizDev/DiscordChatBot.svg?style=for-the-badge
-[forks-url]: https://github.com/NicoRuizDev/DiscordChatBot/network/members
-[stars-shield]: https://img.shields.io/github/stars/NicoRuizDev/DiscordChatBot.svg?style=for-the-badge
-[stars-url]: https://github.com/NicoRuizDev/DiscordChatBot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/NicoRuizDev/DiscordChatBot.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/NicoRuizDev/PteroDeleter.svg?style=for-the-badge
+[contributors-url]: https://github.com/NicoRuizDev/PteroDeleter/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NicoRuizDev/PteroDeleter.svg?style=for-the-badge
+[forks-url]: https://github.com/NicoRuizDev/PteroDeleter/network/members
+[stars-shield]: https://img.shields.io/github/stars/NicoRuizDev/PteroDeleter.svg?style=for-the-badge
+[stars-url]: https://github.com/NicoRuizDev/PteroDeleter/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NicoRuizDev/PteroDeleter.svg?style=for-the-badge
 [issues-url]: https://github.com/NicoRuizDev/DiscordChatBot/issues
-[license-shield]: https://img.shields.io/github/license/NicoRuizDev/DiscordChatBot.svg?style=for-the-badge
-[license-url]: https://github.com/NicoRuizDev/DiscordChatBot/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/NicoRuizDev/PteroDeleter.svg?style=for-the-badge
+[license-url]: https://github.com/NicoRuizDev/PteroDeleter/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
