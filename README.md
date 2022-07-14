@@ -90,21 +90,21 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is an example of how you can instruct your audience on installing and setting up your app._
 
-1. Get a free API Key at [https://brainshop.ai/](https://brainshop.ai/)
+1. Get Pterodactyl API Key at [https:// < Panel Link > /admin/api](https:// < Panel Link > /admin/api)
 2. Clone the repo
    ```sh
-   git clone https://github.com/NicoRuizDev/DiscordChatBot.git
+   git clone https://github.com/NicoRuizDev/PteroDeleter.git
    ```
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your Configuration in `misc/config.json`
-5. Start NPM
+4. Enter your Configuration in `config.js`
+5. Start Application
 6. ```sh
-   npm start
+   node index.js
    ```
 
 
@@ -142,7 +142,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/NicoRuizDev/DiscordChatBot](https://github.com/NicoRuizDev/DiscordChatBot)
+Project Link: [https://github.com/NicoRuizDev/PteroDeleter](https://github.com/NicoRuizDev/PteroDeleter)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -152,8 +152,8 @@ Project Link: [https://github.com/NicoRuizDev/DiscordChatBot](https://github.com
 ## Acknowledgments
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [Discord Js](https://discordjs.guide/additional-info/changes-in-v13.html#before-you-start)
-* [BrainShop](https://brainshop.ai/)
+* [NodeJs v16](https://nodejs.org)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
