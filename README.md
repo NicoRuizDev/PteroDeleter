@@ -122,7 +122,7 @@ Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b NicoRuizDev/PteroDeleter`)
-3. Commit your Changes (`git commit -m 'Add some Chat-Bot'`)
+3. Commit your Changes (`git commit -m 'Add some PteroDeleter'`)
 4. Push to the Branch (`git push origin NicoRuizDev/PteroDeleter`)
 5. Open a Pull Request
 
