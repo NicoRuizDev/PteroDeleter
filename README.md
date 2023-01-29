@@ -121,9 +121,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b NicoRuizDev/DiscordChatBot`)
+2. Create your Feature Branch (`git checkout -b NicoRuizDev/PteroDeleter`)
 3. Commit your Changes (`git commit -m 'Add some Chat-Bot'`)
-4. Push to the Branch (`git push origin NicoRuizDev/DiscordChatBot`)
+4. Push to the Branch (`git push origin NicoRuizDev/PteroDeleter`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -168,7 +168,7 @@ Project Link: [https://github.com/NicoRuizDev/PteroDeleter](https://github.com/N
 [stars-shield]: https://img.shields.io/github/stars/NicoRuizDev/PteroDeleter.svg?style=for-the-badge
 [stars-url]: https://github.com/NicoRuizDev/PteroDeleter/stargazers
 [issues-shield]: https://img.shields.io/github/issues/NicoRuizDev/PteroDeleter.svg?style=for-the-badge
-[issues-url]: https://github.com/NicoRuizDev/DiscordChatBot/issues
+[issues-url]: https://github.com/NicoRuizDev/PteroDeleter/issues
 [license-shield]: https://img.shields.io/github/license/NicoRuizDev/PteroDeleter.svg?style=for-the-badge
 [license-url]: https://github.com/NicoRuizDev/PteroDeleter/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
